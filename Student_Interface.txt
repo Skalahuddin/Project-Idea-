@@ -1,4 +1,0 @@
-Telegram bot
-Chatbot
-Quiz
-Previous questions
