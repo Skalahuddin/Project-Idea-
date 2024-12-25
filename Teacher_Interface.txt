@@ -1,1 +1,0 @@
-This portion contains the interface that a teacher will encounter.
